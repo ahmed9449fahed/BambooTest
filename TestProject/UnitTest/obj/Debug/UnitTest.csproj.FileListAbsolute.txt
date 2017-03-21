@@ -1,0 +1,7 @@
+W:\afa\TFSDemoRepo\TestProject\UnitTest\bin\Debug\UnitTest.dll
+W:\afa\TFSDemoRepo\TestProject\UnitTest\bin\Debug\UnitTest.pdb
+W:\afa\TFSDemoRepo\TestProject\UnitTest\bin\Debug\nunit.framework.dll
+W:\afa\TFSDemoRepo\TestProject\UnitTest\bin\Debug\nunit.framework.xml
+W:\afa\TFSDemoRepo\TestProject\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+W:\afa\TFSDemoRepo\TestProject\UnitTest\obj\Debug\UnitTest.dll
+W:\afa\TFSDemoRepo\TestProject\UnitTest\obj\Debug\UnitTest.pdb
